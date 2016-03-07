@@ -166,6 +166,7 @@ void blockPrint(){
 		head = head->next;
 		i++;
 	}
+	cout << "-------------------------------" <<endl;
 }
 
 int main(){
